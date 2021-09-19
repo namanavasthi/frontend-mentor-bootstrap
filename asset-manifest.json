@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/frontend-mentor-bootstrap/static/css/main.5d1ae7c8.chunk.css",
+    "main.js": "/frontend-mentor-bootstrap/static/js/main.54288a20.chunk.js",
+    "main.js.map": "/frontend-mentor-bootstrap/static/js/main.54288a20.chunk.js.map",
+    "runtime-main.js": "/frontend-mentor-bootstrap/static/js/runtime-main.5f73c054.js",
+    "runtime-main.js.map": "/frontend-mentor-bootstrap/static/js/runtime-main.5f73c054.js.map",
+    "static/js/2.734d7597.chunk.js": "/frontend-mentor-bootstrap/static/js/2.734d7597.chunk.js",
+    "static/js/2.734d7597.chunk.js.map": "/frontend-mentor-bootstrap/static/js/2.734d7597.chunk.js.map",
+    "index.html": "/frontend-mentor-bootstrap/index.html",
+    "static/css/main.5d1ae7c8.chunk.css.map": "/frontend-mentor-bootstrap/static/css/main.5d1ae7c8.chunk.css.map",
+    "static/js/2.734d7597.chunk.js.LICENSE.txt": "/frontend-mentor-bootstrap/static/js/2.734d7597.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5f73c054.js",
+    "static/js/2.734d7597.chunk.js",
+    "static/css/main.5d1ae7c8.chunk.css",
+    "static/js/main.54288a20.chunk.js"
+  ]
+}
